@@ -1,2 +1,2 @@
-# Oracle DataBase in the Servers.
+# Oracle Data Base in the Servers.
               
